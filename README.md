@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kubera Expense Tracker
 
-## Getting Started
+Kubera is an intuitive expense tracking app designed to simplify personal finance management. It helps users efficiently track expenses, manage budgets, and gain insights into spending habits—all with a user-friendly interface and robust security features.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+-   **Expense Management**: Log expenses manually or automatically by linking your bank account.
+-   **Budget Tracking**: Create and monitor budget goals to ensure financial health.
+-   **Insights & Analytics**: Access detailed spending reports and financial trends.
+-   **Secure Data**: Protect your financial data with encryption and privacy controls.
+-   **Cross-Platform Access**: Available on iOS, Android, and web.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. **Clone the Repository**:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+    ```bash
+    git clone https://github.com/yourusername/kubera-expense-tracker.git
+    ```
 
-## Learn More
+2. **Navigate to the Directory**:
 
-To learn more about Next.js, take a look at the following resources:
+    ```bash
+    cd kubera-expense-tracker
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. **Install Dependencies**:
+   Follow instructions to install dependencies specific to your project stack.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+4. **Run the Application**:
+   Start the development server or build the project for production using appropriate scripts.
 
-## Deploy on Vercel
+## Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Contributions are welcome! Please fork the repository and use a feature branch. Pull requests are reviewed for integration.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or feedback, please open an issue in the repository or reach out via email at [dhruva1998@gmail.com](mailto:dhruva1998@gmail.com).
