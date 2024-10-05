@@ -15,13 +15,13 @@ Kubera is an intuitive expense tracking app designed to simplify personal financ
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/kubera-expense-tracker.git
+    git clone https://github.com/dhruvaagrawal/kubera.git
     ```
 
 2. **Navigate to the Directory**:
 
     ```bash
-    cd kubera-expense-tracker
+    cd kubera
     ```
 
 3. **Install Dependencies**:
